@@ -12,4 +12,5 @@ const lName = input2.toUpperCase();
 console.log (`Here is your name in all caps: ${fName} ${lName}`);
 //Initials
 console.log(`Your initials are ${fName[0]}.${lName[0]}.`)
+//Email
 console.log(`Your email address is: ${fName}.${lName}@codeimmersives.com`);
